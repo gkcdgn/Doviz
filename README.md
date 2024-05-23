@@ -1,1 +1,1 @@
-Küçük bir döviz uygılaması
+Küçük bir döviz uygulaması
